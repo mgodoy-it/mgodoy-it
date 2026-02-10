@@ -1,5 +1,12 @@
 ## Hi there! I’m Michael 👋
 
+🔭 Technician III | Training in home cybersecurity labs
+🌱 Learning Active Directory, Splunk, & beginner digital forensics
+💻 8 years in enterprise IT support | Google IT Support & Cybersecurity certified
+🧪 Building home labs: AD, Splunk, vuln scanning, Python, SQL
+🚀 Seeking IT Specialist / System Administrator / Junior Cybersecurity roles
+
+
 <!--
 **mgodoy-it/mgodoy-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +24,3 @@ Here are some ideas to get you started:
 
 
 
-- 💻  IT professional with 8 years of enterprise support 
-- 🔐  Google IT Support & Cybersecurity certified 
-- 📚  Calbright College – Intro to Cybersecurity 
-- 🧪  Building home labs (AD, Splunk, vuln scanning, Python/SQL) 
-- 🌱  Growing my defensive security skills 
-- 🚀  Seeking IT Support or Junior Cybersecurity roles 
