@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there! I’m Michael 👋
+
+- 💻  IT professional with 8 years of enterprise support 
+- 🔐  Google IT Support & Cybersecurity certified 
+- 📚  Calbright College – Intro to Cybersecurity 
+- 🧪  Building home labs (AD, Splunk, vuln scanning, Python/SQL) 
+- 🌱  Growing my defensive security skills 
+- 🚀  Seeking IT Support or Junior Cybersecurity roles 
