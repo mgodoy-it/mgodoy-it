@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I’m Michael 👋
 
 <!--
 **mgodoy-it/mgodoy-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! I’m Michael 👋
+
 
 - 💻  IT professional with 8 years of enterprise support 
 - 🔐  Google IT Support & Cybersecurity certified 
