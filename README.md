@@ -1,7 +1,7 @@
 ## Hi there! I’m Michael 👋
 
 - 🔭 Technician III | Training in home cybersecurity labs
-- 🌱 Learning Active Directory, Splunk, & beginner digital forensics
+- 🌱 Learning Active Directory, Splunk, and Cybersecurity
 - 💻 8 years in enterprise IT support | Google IT Support & Cybersecurity certified
 - 🧪 Building home labs: AD, Splunk, vuln scanning, Python, SQL
 - 🚀 Seeking IT Specialist / System Administrator / Junior Cybersecurity roles
