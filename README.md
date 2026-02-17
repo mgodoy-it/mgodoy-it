@@ -4,7 +4,7 @@
 - 🌱 Learning Active Directory, Splunk, and Cybersecurity
 - 💻 8 years in enterprise IT support | Google IT Support & Cybersecurity certified
 - 🧪 Building home labs: AD, Splunk, vuln scanning, Python, SQL
-- 🚀 Seeking IT Specialist / System Administrator / Junior Cybersecurity roles
+- 🚀 Seeking IT Administrator / Junior Cybersecurity roles
 
 
 <!--
