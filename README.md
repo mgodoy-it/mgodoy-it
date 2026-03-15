@@ -2,7 +2,7 @@
 
 - 🔭 Technician III | Building hands-on home cybersecurity labs
 - 🌱 Learning Active Directory, Splunk, and cybersecurity operations
-- 💻 8+ years of enterprise IT support | Google IT Support & Google Cybersecurity Certified
+- 💻 IT support | Google IT Support & Google Cybersecurity Certified
 - 🧪 Building home labs: AD domain setup, Splunk log analysis, vulnerability scanning, Python, SQL
 - 🚀 Passionate about continuous learning, security hardening, and proactive problem-solving
 
