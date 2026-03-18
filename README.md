@@ -1,11 +1,11 @@
 ## Hi there! I’m Michael 👋
 
-- 🔭 Technician III | Building hands-on home cybersecurity labs
-- 🌱 Learning Active Directory, Splunk, and cybersecurity operations
-- 💻 IT support | Google IT Support & Google Cybersecurity Certified
-- 🧪 Building home labs: AD domain setup, Splunk log analysis, vulnerability scanning, Python, SQL
-- 🚀 Passionate about continuous learning, security hardening, and proactive problem-solving
 
+- 🔭 Technician III | Building hands-on cybersecurity labs at home
+- 🌱 Learning Active Directory, Splunk, and cybersecurity operations
+- 💻 Google IT Support & Cybersecurity Certified | IT Support Specialist / Junior Cybersecurity
+- 🧪 Home lab projects: AD domain setup, Splunk log analysis, vulnerability scanning, Python & SQL scripts
+- 🚀 Passionate about continuous learning, security hardening, and proactive problem-solving
 
 <!--
 **mgodoy-it/mgodoy-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
